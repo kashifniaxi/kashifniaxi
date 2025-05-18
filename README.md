@@ -32,7 +32,7 @@ Relevant Coursework: Qualitative Computational Reasoning, Artificial Intelligenc
 
 ## 💼 Experience
 
-**Software Engineer Intern**  
+**Software Engineer Intern** 
 Kairiz Cyber Private Technologies, Faisalabad, Pakistan  
 _Aug 2024 – Oct 2024_
 - Developed secure, scalable web applications with ML enhancements using Django & React.  
