@@ -65,6 +65,7 @@ _Aug 2024 – Oct 2024_
 
 <p align="center">
   <!-- Languages -->
+  
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
   ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
   ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
