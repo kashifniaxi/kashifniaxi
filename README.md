@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" alt="Welcome GIF"/><br>
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" alt="Hi"/> Hey, I'm **Muhammad Kashif Khan** <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32"/>
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" alt="Hi"/> Hey, I'm "Muhammad Kashif Khan" <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32"/>
 </h1>
 
 <p align="center">
