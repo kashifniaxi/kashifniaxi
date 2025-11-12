@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> proficient in MERN Stack, Django/Python, and AI/ML.
+  <strong>Associate Software Engineer @Pursue.Today </strong> proficient in MERN Stack, Django/Python, and AI/ML.
 </p>
 
 <p align="center">
@@ -17,13 +17,13 @@
 
 ## 📝 Summary
 
-Software Engineer skilled in **MongoDB, Express, React, Node.js**, **Django/Python**, and **AI/ML** (Computer Vision, NLP). Experienced with RESTful API design, cloud deployments, Agile workflows, Git version control, and CI/CD pipelines.
+Associate Software Engineer at Pursue Today skilled in MongoDB, Express, React, Node.js, Django/Python, and AI/ML (Computer Vision, NLP). Experienced with RESTful API design, cloud deployments, Agile workflows, Git version control, and CI/CD pipelines.
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Computer Science**  
+Bachelor in Computer Science  
 Namal University, Mianwali  
 _Nov 2021 – Jun 2025_  
 Relevant Coursework: Qualitative Computational Reasoning, Artificial Intelligence, Software Engineering, Mobile App Development, Machine Learning, Cyber Security, Computer Vision, Entrepreneurship.
