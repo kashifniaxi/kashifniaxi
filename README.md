@@ -32,6 +32,14 @@ Relevant Coursework: Qualitative Computational Reasoning, Artificial Intelligenc
 
 ## 💼 Experience
 
+"Associate Software Engineer"
+Pursue.Today , Lahore, Pakistan
+_June 2025 - Present
+  - Working on Eelectrical.com
+  - Designed and Developed Graphiql API for Data pipeline
+  - Working on SQL,Elastic Search,MongoDB and Reddis databases
+  - Worked with Nextjs for frontend along with Material UI and TypeScript
+  - Working in Agile Team Under the dynamic Team Leads with Agile Sprints
 **Software Engineer Intern** 
 Kairiz Cyber Private Technologies, Faisalabad, Pakistan  
 _Aug 2024 – Oct 2024_
