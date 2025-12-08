@@ -10,7 +10,7 @@
 
 <p align="center">
   Islamabad, Pakistan | 📱 +92 304 5000516 | ✉️ kashifkhan0516@gmail.com<br>
-  <a href="https://linkedin.com/in/mkashif09">LinkedIn</a> • <a href="https://github.com/kashifkhan09">GitHub</a>
+  <a href="https://linkedin.com/in/mkashif09">LinkedIn</a> • <a href="https://github.com/kashifniaxi">GitHub</a>
 </p>
 
 ---
@@ -58,10 +58,10 @@ _Aug 2024 – Oct 2024_
 - **FYP-Parho Pakistan** ([GitHub](https://github.com/kashifniaxi/FYP-Parho-Pakistan))  
   MERN platform connecting students with sponsors; responsive dashboards, real-time notifications, and RBAC flows.
 
-- **Urdu OCR Alphabet Detection** ([GitHub](https://github.com/kashifniaxi/Urdu-OCR-Detection))  
+- **Urdu OCR Alphabet Detection** ([GitHub](https://github.com/kashifniaxi/urdu-ocr-alphabet-detection))  
   Ligature-aware CNN with synthetic augmentation; 95% accuracy on printed Urdu; OpenCV preprocessing pipeline.
 
-- **Real-Time Object Detection & Space Assessment** ([GitHub](https://github.com/kashifniaxi/RealTime-Object-Detection))  
+- **Real-Time Object Detection & Space Assessment** ([GitHub](https://github.com/kashifniaxi/Real-Time-Object-Detection-and-Space-Assessment-Using-YOLOv8-with-Depth-Estimation))  
   YOLOv8 on Jetson Nano with stereo depth estimation; automated overcrowding alerts.
 
 - **Plant Lover Social App** ([GitHub](https://github.com/kashifniaxi/Plant-Lover-Social-App))  
