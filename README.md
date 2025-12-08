@@ -32,7 +32,7 @@ Relevant Coursework: Qualitative Computational Reasoning, Artificial Intelligenc
 
 ## 💼 Experience
 
-"Associate Software Engineer"
+**Associate Software Engineer**
 Pursue.Today , Lahore, Pakistan
 _June 2025 - Present
   - Working on Eelectrical.com
@@ -43,6 +43,7 @@ _June 2025 - Present
 
     
 **Software Engineer Intern** 
+
 Kairiz Cyber Private Technologies, Faisalabad, Pakistan  
 _Aug 2024 – Oct 2024_
 - Developed secure, scalable web applications with ML enhancements using Django & React.  
