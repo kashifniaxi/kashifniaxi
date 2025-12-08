@@ -55,20 +55,23 @@ _Aug 2024 – Oct 2024_
 
 ## 🚀 Projects
 
-- **FYP-Parho Pakistan** ([GitHub](https://github.com/kashifkhan09/FYP-Parho-Pakistan))  
+- **FYP-Parho Pakistan** ([GitHub](https://github.com/kashifniaxi/FYP-Parho-Pakistan))  
   MERN platform connecting students with sponsors; responsive dashboards, real-time notifications, and RBAC flows.
 
-- **Urdu OCR Alphabet Detection** ([GitHub](https://github.com/kashifkhan09/Urdu-OCR-Detection))  
+- **Urdu OCR Alphabet Detection** ([GitHub](https://github.com/kashifniaxi/Urdu-OCR-Detection))  
   Ligature-aware CNN with synthetic augmentation; 95% accuracy on printed Urdu; OpenCV preprocessing pipeline.
 
-- **Real-Time Object Detection & Space Assessment** ([GitHub](https://github.com/kashifkhan09/RealTime-Object-Detection))  
+- **Real-Time Object Detection & Space Assessment** ([GitHub](https://github.com/kashifniaxi/RealTime-Object-Detection))  
   YOLOv8 on Jetson Nano with stereo depth estimation; automated overcrowding alerts.
 
-- **Plant Lover Social App** ([GitHub](https://github.com/kashifkhan09/Plant-Lover-Social-App))  
+- **Plant Lover Social App** ([GitHub](https://github.com/kashifniaxi/Plant-Lover-Social-App))  
   React-Firebase social network; sharing, trading, event coordination; offline sync support.
 
-- **Search-Engine-Rankit** ([GitHub](https://github.com/kashifkhan09/Search-Engine-Rankit))  
+- **Search-Engine-Rankit** ([GitHub](https://github.com/kashifniaxi/Search-Engine-Rankit))  
   TF-IDF search modules in Django; SEO boost by 30%; AWS deployment with CI/CD.
+  
+  - **Lidar-Data-Segmentation-and-Manipulation** ([GitHub](https://github.com/kashifniaxi/Lidar-Data-Segmentation-and-Manipulation))  
+  The PCD Project is a comprehensive solution for analyzing and processing Point Cloud Data (PCD) using advanced computational techniques. With the increasing use of 3D scanning and LiDAR technologies, efficient handling, visualization, and manipulation of point cloud datasets have become crucial. This project provides a robust framework for performing key operations on PCD, including filtering, segmentation, clustering, and feature extraction
 
 ---
 
