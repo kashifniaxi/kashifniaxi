@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Associate Software Engineer @Pursue.Today </strong> proficient in MERN Stack, Django/Python, and AI/ML.
 </p>
-
+   
 <p align="center">
   Islamabad, Pakistan | 📱 +92 304 5000516 | ✉️ kashifkhan0516@gmail.com<br>
   <a href="https://linkedin.com/in/mkashif09">LinkedIn</a> • <a href="https://github.com/kashifniaxi">GitHub</a>
@@ -15,7 +15,7 @@
 
 ---
 
-## 📝 Summary
+## 📝 Summary 
 
 Associate Software Engineer at Pursue Today skilled in MongoDB, Express, React, Node.js, Django/Python, and AI/ML (Computer Vision, NLP). Experienced with RESTful API design, cloud deployments, Agile workflows, Git version control, and CI/CD pipelines.
 
