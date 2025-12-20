@@ -62,7 +62,7 @@ _Aug 2024 – Oct 2024_
   Ligature-aware CNN with synthetic augmentation; 95% accuracy on printed Urdu; OpenCV preprocessing pipeline.
 
 - **Real-Time Object Detection & Space Assessment** ([GitHub](https://github.com/kashifniaxi/Real-Time-Object-Detection-and-Space-Assessment-Using-YOLOv8-with-Depth-Estimation))  
-  YOLOv8 on Jetson Nano with stereo depth estimation; automated overcrowding alerts.
+  YOLOv8 on Jetson Nano with stereo depth estimation; automated overcrowding alerts with precision.
 
 - **Plant Lover Social App** ([GitHub](https://github.com/kashifniaxi/Plant-Lover-Social-App))  
   React-Firebase social network; sharing, trading, event coordination; offline sync support.
