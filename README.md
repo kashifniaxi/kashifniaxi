@@ -65,7 +65,7 @@ _Aug 2024 – Oct 2024_
   YOLOv8 on Jetson Nano with stereo depth estimation; automated overcrowding alerts with precision.
 
 - **Plant Lover Social App** ([GitHub](https://github.com/kashifniaxi/Plant-Lover-Social-App))  
-  React-Firebase social network; sharing, trading, event coordination; offline sync support.
+  React-Firebase social network; sharing, trading, event coordination; offline sync support for the centerlizing of plant lover communities.
 
 - **Search-Engine-Rankit** ([GitHub](https://github.com/kashifniaxi/Search-Engine-Rankit))  
   TF-IDF search modules in Django; SEO boost by 30%; AWS deployment with CI/CD.
