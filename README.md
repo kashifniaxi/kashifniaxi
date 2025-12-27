@@ -36,6 +36,7 @@ Relevant Coursework: Qualitative Computational Reasoning, Artificial Intelligenc
 Pursue.Today , Lahore, Pakistan
 _June 2025 - Present
   - Working on Eelectrical.com
+  - Working on Amplify.com(Admin Panel)
   - Designed and Developed Graphiql API for Data pipeline
   - Working on SQL,Elastic Search,MongoDB and Reddis databases
   - Worked with Nextjs for frontend along with Material UI and TypeScript
