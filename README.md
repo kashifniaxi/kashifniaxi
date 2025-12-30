@@ -17,7 +17,7 @@
 
 ## 📝 Summary 
 
-Associate Software Engineer at Pursue Today skilled in MongoDB, Express, React, Node.js, Django/Python, and AI/ML (Computer Vision, NLP). Experienced with RESTful API design, cloud deployments, Agile workflows, Git version control, and CI/CD pipelines.
+Associate Software Engineer at Pursue Today skilled in MongoDB, Express, React, Node.js, Django/Python, and AI/ML (Computer Vision, NLP). Experienced with RESTful and Grahql API design, cloud deployments, Agile workflows, Git version control, and CI/CD pipelines.
 
 ---
 
