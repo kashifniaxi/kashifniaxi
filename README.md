@@ -54,7 +54,7 @@ _Aug 2024 – Oct 2024_
 
 ---
 
-## 🚀 Projects
+## 🚀 Personal Projects
 
 - **FYP-Parho Pakistan** ([GitHub](https://github.com/kashifniaxi/FYP-Parho-Pakistan))  
   MERN platform connecting students with sponsors; responsive dashboards, real-time notifications, and RBAC flows.
