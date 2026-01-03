@@ -57,7 +57,7 @@ _Aug 2024 – Oct 2024_
 ## 🚀 Personal Projects
 
 - **FYP-Parho Pakistan** ([GitHub](https://github.com/kashifniaxi/FYP-Parho-Pakistan))  
-  MERN platform connecting students with sponsors; responsive dashboards, real-time notifications, and RBAC flows.
+  AI driven MERN platform connecting students with sponsors; responsive dashboards, real-time notifications, and RBAC flows.
 
 - **Urdu OCR Alphabet Detection** ([GitHub](https://github.com/kashifniaxi/urdu-ocr-alphabet-detection))  
   Ligature-aware CNN with synthetic augmentation; 95% accuracy on printed Urdu; OpenCV preprocessing pipeline.
