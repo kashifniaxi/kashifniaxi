@@ -38,7 +38,7 @@ _June 2025 - Present
   - Working on Eelectrical.com
   - Working on Amplify.com(Admin Panel)
   - Designed and Developed Graphiql API for Data pipeline
-  - Working on SQL,Elastic Search,MongoDB and Reddis databases
+  - Working on SQL,Elastic Search,MongoDB,crone jobs and Reddis databases
   - Worked with Nextjs for frontend along with Material UI and TypeScript
   - Working in Agile Team Under the dynamic Team Leads with Agile Sprints
 
