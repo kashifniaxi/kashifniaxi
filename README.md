@@ -72,7 +72,7 @@ _Aug 2024 – Oct 2024_
   TF-IDF search modules in Django; SEO boost by 30%; AWS deployment with CI/CD.
   
 - **Lidar-Data-Segmentation-and-Manipulation** ([GitHub](https://github.com/kashifniaxi/Lidar-Data-Segmentation-and-Manipulation))  
-  The PCD Project is a comprehensive solution for analyzing and processing Point Cloud Data (PCD) using advanced computational techniques. With the increasing use of 3D scanning and LiDAR technologies, efficient handling, visualization, and manipulation of point cloud datasets have become crucial. This project provides a robust framework for performing key operations on PCD, including filtering, segmentation, clustering, and feature extraction
+  The PCD Project is a comprehensive solution for analyzing and processing Point Cloud Data (PCD) using advanced computational techniques and Methodologies. With the increasing use of 3D scanning and LiDAR technologies, efficient handling, visualization, and manipulation of point cloud datasets have become crucial. This project provides a robust framework for performing key operations on PCD, including filtering, segmentation, clustering, and feature extraction
 
 ---
 
