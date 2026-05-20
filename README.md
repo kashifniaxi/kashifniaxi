@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <strong>Associate Software Engineer @Pursue.Today </strong> proficient in MERN Stack, Django/Python, and AI/ML.
+  <strong>Associate Software Engineer @Pursue.Today </strong> proficient in MERN Stack, Django/Python, and Applied AI/ML.
 </p>
    
 <p align="center">
