@@ -28,7 +28,7 @@ Building scalable web applications, distributed systems, and enterprise software
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a **Full Stack Software Engineer** currently working at **Pursue Today**, where I build and maintain enterprise-scale applications powering **Amplify.com** and **Electrical.com**.
 
