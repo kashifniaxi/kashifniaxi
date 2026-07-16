@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/kashifniaxi/kashifniaxi/main/ChatGPT%20Image%20Jul%2016%2C%202026%2C%2001_52_56%20PM.png)
+
 <h1 align="center">
 Hi 👋, I'm Muhammad Kashif Khan
 </h1>
@@ -34,7 +36,7 @@ I'm a **Full Stack Software Engineer** currently working at **Pursue Today**, wh
 
 I enjoy solving real production problems—from designing scalable backend architectures and GraphQL APIs to developing responsive React applications and optimizing system performance.
 
-Over the past year, I've worked extensively on **microservices**, **Redis queue processing**, **Elasticsearch search infrastructure**, **authentication systems**, and **performance optimization** for applications serving **70K+ users**.
+Over the past year, I've worked extensively on **microservices**, **Redis queue processing**, **Elasticsearch search infrastructure**, **authentication systems**, and **performance optimization** for [...]
 
 ---
 
