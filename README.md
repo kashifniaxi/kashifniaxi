@@ -52,7 +52,7 @@ Over the past year, I've worked extensively on **microservices**, **Redis queue 
 
 # 💼 Professional Experience
 
-## Associate Software Engineer — Pursue Today
+## Software Engineer — Pursue Today
 
 - Building scalable full-stack enterprise applications using the MERN stack
 - Designing GraphQL APIs and RESTful backend services
