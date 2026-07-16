@@ -1,112 +1,215 @@
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180" alt="Welcome GIF"/><br>
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" alt="Hi"/> Hey, I'm "Muhammad Kashif Khan" <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32"/>
+Hi 👋, I'm Muhammad Kashif Khan
 </h1>
 
+<h3 align="center">
+Full Stack Software Engineer | MERN Stack | Node.js | React | GraphQL | Microservices
+</h3>
+
 <p align="center">
-  <strong>Associate Software Engineer @Pursue.Today </strong> proficient in MERN Stack, Django/Python, and Applied AI/ML.
+Building scalable web applications, distributed systems, and enterprise software with a passion for clean architecture and performance optimization.
 </p>
-   
-<p align="center">
-  Islamabad, Pakistan | 📱 +92 304 5000516 | ✉️ kashifkhan0516@gmail.com<br>
-  <a href="https://linkedin.com/in/mkashif09">LinkedIn</a> • <a href="https://github.com/kashifniaxi">GitHub</a>
-</p>
-
----
-
-## 📝 Summary 
-
-Associate Software Engineer at Pursue Today skilled in MongoDB, Express, React, Node.js, Django/Python, and AI/ML (Computer Vision, NLP). Experienced with RESTful and Grahql API design, cloud deployments, Agile workflows, Git version control, and CI/CD pipelines.
-
----
-
-## 🎓 Education
-
-Bachelor in Computer Science  
-Namal University, Mianwali  
-_Nov 2021 – Jun 2025_  
-Relevant Coursework: Qualitative Computational Reasoning, Artificial Intelligence, Software Engineering, Mobile App Development, Machine Learning, Cyber Security, Computer Vision, Entrepreneurship.
-
----
-
-## 💼 Experience
-
-**Associate Software Engineer**
-Pursue.Today , Lahore, Pakistan
-_June 2025 - Present
-  - Working on Eelectrical.com
-  - Working on Amplify.com(Admin Panel)
-  - Designed and Developed Graphql API for Data pipeline
-  - Working on SQL,Elastic Search,MongoDB,crone jobs and Reddis databases
-  - Worked with Nextjs for frontend along with Material UI and TypeScript
-  - Working in Agile Team Under the dynamic Team Leads with Agile Sprints
-
-    
-**Software Engineer Intern** 
-
-Kairiz Cyber Private Technologies, Faisalabad, Pakistan  
-_Aug 2024 – Oct 2024_
-- Developed secure, scalable web applications with ML enhancements using Django & React.  
-- Designed and consumed RESTful APIs for real-time data processing.  
-- Optimized MongoDB schemas and queries, improving response times by 20%.  
-- Collaborated in Agile sprints; maintained CI/CD pipelines with Git.
-
----
-
-## 🚀 Personal Projects
-
-- **FYP-Parho Pakistan** ([GitHub](https://github.com/m-faisal930/Parho-Pakistan))  
-  AI driven MERN platform connecting students with sponsors; responsive dashboards, real-time notifications, and RBAC flows.
-
-- **Urdu OCR Alphabet Detection** ([GitHub](https://github.com/kashifniaxi/urdu-ocr-alphabet-detection))  
-  Ligature-aware CNN with synthetic augmentation; 95% accuracy on printed Urdu; OpenCV preprocessing pipeline.
-
-- **Real-Time Object Detection & Space Assessment ** ([GitHub](https://github.com/kashifniaxi/Real-Time-Object-Detection-and-Space-Assessment-Using-YOLOv8-with-Depth-Estimation))  
-  YOLOv8 on Jetson Nano with stereo depth estimation; automated overcrowding alerts with precision.
-
-- **Plant Lover Social App** ([GitHub](https://github.com/kashifniaxi/Plant-Lover-Social-App))  
-  React-Firebase social network; sharing, trading, event coordination; offline sync support for the centerlizing of plant lover communities.
-
-- **Search-Engine-Rankit** ([GitHub](https://github.com/kashifniaxi/Search-Engine-Rankit))  
-  TF-IDF search modules in Django; SEO boost by 30%; AWS deployment with CI/CD.
-  
-- **Lidar-Data-Segmentation-and-Manipulation** ([GitHub](https://github.com/kashifniaxi/Lidar-Data-Segmentation-and-Manipulation))  
-  The PCD Project is a comprehensive solution for analyzing and processing Point Cloud Data (PCD) using advanced computational techniques and Methodologies. With the increasing use of 3D scanning and LiDAR technologies, efficient handling, visualization, and manipulation of point cloud datasets have become crucial. This project provides a robust framework for performing key operations on PCD, including filtering, segmentation, clustering, and feature extraction 
-
----
-
-## 🛠️ Technical Skills
 
 <p align="center">
-  <!-- Languages -->
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-  ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B)
-  ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
 
-  <!-- Frameworks & Libraries -->
-  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-  ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-  ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv)
-  ![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge)
+<a href="https://linkedin.com/in/mkashif09">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <!-- Databases & Tools -->
-  ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
-  ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-  ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-  ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
+<a href="mailto:kashifkhan0516@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kashifniaxi">
+<img src="https://img.shields.io/github/followers/kashifniaxi?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CREATED%20BY-Muhammad%20Kashif%20Khan-lightgrey?style=for-the-badge" alt="Created by Kashif"/>
+# 🚀 About Me
+
+I'm a **Full Stack Software Engineer** currently working at **Pursue Today**, where I build and maintain enterprise-scale applications powering **Amplify.com** and **Electrical.com**.
+
+I enjoy solving real production problems—from designing scalable backend architectures and GraphQL APIs to developing responsive React applications and optimizing system performance.
+
+Over the past year, I've worked extensively on **microservices**, **Redis queue processing**, **Elasticsearch search infrastructure**, **authentication systems**, and **performance optimization** for applications serving **70K+ users**.
+
+---
+
+# 📈 Production Impact
+
+- 🚀 Serving **70K+ active users** across enterprise platforms
+- ⚡ Reduced critical API response time from **1.5 seconds → <100 ms**
+- ✅ Delivered **70+ production features, optimizations, and bug fixes**
+- 🏗 Maintaining **microservice-based distributed systems**
+- 🔍 Built Elasticsearch search and synchronization services
+- 🔄 Developed Redis queue-based background processing pipelines
+- 🔐 Implemented JWT, Google OAuth & Role-Based Access Control (RBAC)
+
+---
+
+# 💼 Professional Experience
+
+## Associate Software Engineer — Pursue Today
+
+- Building scalable full-stack enterprise applications using the MERN stack
+- Designing GraphQL APIs and RESTful backend services
+- Developing React dashboards and reusable UI components
+- Scaling distributed microservices using Redis and Elasticsearch
+- Optimizing backend performance and database queries
+- Working with Docker, Azure, GitHub Actions, and Agile workflows
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
+
 </p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+
+</p>
+
+**GraphQL • REST APIs • Microservices**
+
+---
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
+
+</p>
+
+**Redis • Elasticsearch**
+
+---
+
+### DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure"/>
+
+</p>
+
+**GitHub Actions • CI/CD**
+
+---
+
+### AI & Computer Vision
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+</p>
+
+**YOLOv8 • OpenCV**
+
+---
+
+# 🌟 Featured Projects
+
+## 🎓 Parho Pakistan
+
+Production-ready MERN platform connecting students, sponsors, educational institutes, and administrators through secure role-based workflows.
+
+**Tech:** MERN • JWT • Firebase • REST APIs
+
+🔗 Live Demo: https://www.parhopakistan.com/
+
+🔗 Repository: https://github.com/kashifniaxi/Parho-Pakistan
+
+---
+
+## 🌍 TrueFellow
+
+Centralized tourism platform connecting travelers with verified local tour organizers and compatible travel partners.
+
+**Tech:** MERN • JWT • MongoDB • REST APIs
+
+🔗 Repository:
+
+https://github.com/kashifniaxi/TrueFellow
+
+---
+
+## 🔎 Search Engine Rankit
+
+TF-IDF powered intelligent search engine improving search relevance and SEO effectiveness.
+
+**Tech:** Django • TF-IDF • AWS
+
+🔗 Repository:
+
+https://github.com/kashifniaxi/Search-Engine-Rankit
+
+---
+
+## 🌱 Plant Lover Social App
+
+React + Firebase social networking platform built for plant enthusiasts with community interaction and event management.
+
+**Tech:** React • Firebase
+
+🔗 Repository:
+
+https://github.com/kashifniaxi/Plant_lover_social_App
+
+---
+
+# 🌱 Currently Exploring
+
+- Scalable System Design
+- Distributed Systems
+- High Performance APIs
+- AI-powered Applications
+- Cloud Native Development
+- Advanced React Patterns
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kashifniaxi&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifniaxi&layout=compact&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifniaxi&theme=transparent"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on scalable web applications, distributed systems, AI-powered products, and challenging software engineering problems.
+
+📧 **Email**
+
+kashifkhan0516@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/mkashif09
+
+⭐ Thanks for visiting my profile!
